@@ -1,0 +1,8 @@
+torch>=1.9 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+torchvision>=0.10 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+transformers
+datasets
+rich
+numpy
+tqdm
+psutil
